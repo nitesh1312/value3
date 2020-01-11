@@ -1,0 +1,15 @@
+com\nitesh\demo\controller\DefaultExceptionController.class
+com\nitesh\demo\entity\WorldBankData.class
+com\nitesh\demo\model\IndResponse.class
+com\nitesh\demo\service\DataService.class
+com\nitesh\demo\controller\DataServiceController.class
+com\nitesh\demo\model\FinalResponse.class
+com\nitesh\demo\dao\DataServiceRepository.class
+com\nitesh\demo\entity\WorldBankDataID.class
+com\nitesh\demo\model\RequestBody.class
+com\nitesh\demo\client\DemoRestClient$1.class
+com\nitesh\demo\model\IndicatorGs.class
+com\nitesh\demo\DemoApplication.class
+com\nitesh\demo\model\CountryGs.class
+com\nitesh\demo\client\DemoRestClient.class
+com\nitesh\demo\model\ResponseGson.class

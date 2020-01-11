@@ -1,0 +1,11 @@
+com\mithi\demo\entity\WorldBankData.class
+com\mithi\demo\entity\WorldBankDataID.class
+com\mithi\demo\model\RequestBody.class
+com\mithi\demo\DemoApplication.class
+com\mithi\demo\controller\UserController.class
+com\mithi\demo\service\DataService.class
+com\mithi\demo\controller\DataServiceController.class
+com\mithi\demo\dao\DataServiceRepository.class
+com\mithi\demo\service\UserService.class
+com\mithi\demo\dao\UserRepository.class
+com\mithi\demo\entity\User.class
